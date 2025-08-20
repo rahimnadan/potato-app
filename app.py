@@ -6,7 +6,7 @@ import io
 
 # Constants
 API_URL = "https://classify.roboflow.com"
-API_KEY = "8WozafCyTLmGPySFcYCf"
+API_KEY = ""
 MODEL_ID = "potato-blight-stage-detection/2"
 
 def infer_image(image):
